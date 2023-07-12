@@ -1,0 +1,9 @@
+socks
+pysocks
+ssl
+urllib3
+requests
+cloudscraper
+datetime
+undetected_chromedriver
+colorama
